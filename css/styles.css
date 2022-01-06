@@ -2,3 +2,8 @@ body {
   background-color: rgb(33, 83, 83);
 }
 
+.column {
+  float: left;
+  width: 300px;
+}
+
