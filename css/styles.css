@@ -2,8 +2,17 @@ body {
   background-color: rgb(33, 83, 83);
 }
 
+img {
+  border: solid black 20px;
+}
+
 .column {
   float: left;
   width: 300px;
 }
+
+.column img {
+  width: 80%;
+}
+
 
